@@ -4,7 +4,7 @@ class guessNumber{
         return (int)(Math.random() * to + from);
     }
 	public static void processMessage(){
-		System.out.println("Please wait MF.");
+		System.out.println("Please wait ...");
 	}
 	public static void main(String[] args){
 		Scanner scanner = new Scanner(System.in);
